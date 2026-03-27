@@ -30,7 +30,7 @@ FLUX is a modern, premium streaming application designed for **Android TV**. Bui
 
 - Android Studio Koala or newer.
 - JDK 17+.
-- Android Device/Emulator with API 23+.
+- Android Device/Emulator with API 28+.
 
 ### Installation
 
