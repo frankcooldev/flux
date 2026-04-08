@@ -2,7 +2,7 @@
   <img src="assets/logo.png" width="120" alt="Flux Logo">
 </p>
 
-# CODE FOR DOWNLOADER APP 8152096
+# CODE FOR DOWNLOADER APP 8152096 (FIRESTICK)
 
 # FLUX
 
