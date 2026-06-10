@@ -4,6 +4,12 @@
 
 # CODE FOR DOWNLOADER APP 3749174 (FIRESTICK)
 
+## Support
+
+Sostieni il progetto per nuove funzionalità!
+
+[![Support me on Ko-fi](https://img.shields.io/badge/Support%20me-Ko--fi-FF5E5B?style=flat&logo=kofi&logoColor=white)](https://ko-fi.com/Y0S1215ADD) [![Donate via PayPal](https://img.shields.io/badge/Donate-PayPal-003087?style=flat&logo=paypal&logoColor=white)](https://paypal.me/fluxstreamapp)
+
 # FLUX
 
 FLUX is a modern, premium streaming application designed for **Android TV**. Built with Jetpack Compose and Kotlin, it offers a seamless and cinematic experience across all your screens.
