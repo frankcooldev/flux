@@ -6,11 +6,6 @@
   <a href="#english">🇬🇧 English</a> · <a href="#italiano">🇮🇹 Italiano</a>
 </p>
 
----
-
-## CODE FOR DOWNLOADER APP 3749174 (FIRESTICK)
-
----
 
 <a name="english"></a>
 # FLUX ANIME
