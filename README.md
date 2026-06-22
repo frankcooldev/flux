@@ -6,11 +6,6 @@
   <a href="#english">🇬🇧 English</a> · <a href="#italiano">🇮🇹 Italiano</a>
 </p>
 
----
-
-## CODE FOR DOWNLOADER APP 3749174 (FIRESTICK)
-
----
 
 > 🍥 **Looking for anime?** Check out **Flux Anime** — the anime series & movies edition — on the [`flux-anime`](https://github.com/frankcooldev/flux/tree/flux-anime) branch.
 >
