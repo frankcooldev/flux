@@ -12,9 +12,19 @@
 
 ---
 
+> 🍥 **Looking for anime?** Check out **Flux Anime** — the anime series & movies edition — on the [`flux-anime`](https://github.com/frankcooldev/flux/tree/flux-anime) branch.
+>
+> 🍥 **Cerchi gli anime?** Prova **Flux Anime** — l'edizione dedicata a serie anime e film — sul branch [`flux-anime`](https://github.com/frankcooldev/flux/tree/flux-anime).
+
+---
+
 <a name="english"></a>
 # FLUX
 FLUX is a modern, premium streaming application designed for **Android TV**. Built with Jetpack Compose and Kotlin, it offers a seamless and cinematic experience across all your screens.
+
+> **Two editions:**
+> - **Flux** — movies & TV series (this branch)
+> - **Flux Anime** — anime series & movies → [`flux-anime`](https://github.com/frankcooldev/flux/tree/flux-anime) branch
 
 ## ✨ Features
 - **📺 Multi-Platform Optimization:** A single codebase optimized for the large screens of Android TV.
@@ -51,6 +61,10 @@ If you find this project useful, consider buying me a coffee or making a donatio
 <a name="italiano"></a>
 # FLUX
 FLUX è un'applicazione di streaming moderna e premium progettata per **Android TV**. Costruita con Jetpack Compose e Kotlin, offre un'esperienza fluida e cinematografica su tutti i tuoi schermi.
+
+> **Due edizioni:**
+> - **Flux** — film e serie TV (questo branch)
+> - **Flux Anime** — serie anime e film → branch [`flux-anime`](https://github.com/frankcooldev/flux/tree/flux-anime)
 
 ## ✨ Funzionalità
 - **📺 Ottimizzazione Multi-Piattaforma:** Un unico codebase ottimizzato per i grandi schermi di Android TV.
