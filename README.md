@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/logo.png" width="120" alt="Flux Logo">
+  <img src="assets/logo.png" width="120" alt="Flux Logo">  <img src="assets/logo-anime.png" width="120" alt="Flux Logo">
 </p>
 
 <p align="center">
